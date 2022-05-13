@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1637988540 source:c:\users\santy\documents\university\ipoo\trimok\ficha.cpp
+	"Ficha.h"
+
+1639837002 c:\users\santy\documents\university\ipoo\trimok\include\ficha.h
+	<vector>
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+
+1638050640 source:c:\users\santy\documents\university\ipoo\trimok\main.cpp
+	"Partida.h"
+
+1639783745 c:\users\santy\documents\university\ipoo\trimok\include\partida.h
+	"Tablero.h"
+
+1639802179 c:\users\santy\documents\university\ipoo\trimok\include\tablero.h
+	<iostream>
+	"FichasHijas.h"
+	"Ficha.h"
+	<vector>
+
+1639621172 c:\users\santy\documents\university\ipoo\trimok\include\fichashijas.h
+	"Ficha.h"
+
+1637996260 source:c:\users\santy\documents\university\ipoo\trimok\partida.cpp
+	"Partida.h"
+
+1638050284 source:c:\users\santy\documents\university\ipoo\trimok\tablero.cpp
+	"Tablero.h"
+
+1638052957 source:c:\users\santy\documents\university\ipoo\trimok\fichashijas.cpp
+	"FichasHijas.h"
+
+1639621172 source:c:\users\santy\documents\university\ipoo\trimok\src\ficha.cpp
+	"Ficha.h"
+
+1639773295 source:c:\users\santy\documents\university\ipoo\trimok\src\main.cpp
+	<stdio.h>
+	"Partida.h"
+	"Menu.h"
+	"jugadorMaquina.h"
+
+1639783622 source:c:\users\santy\documents\university\ipoo\trimok\src\partida.cpp
+	"Partida.h"
+
+1639803358 source:c:\users\santy\documents\university\ipoo\trimok\src\tablero.cpp
+	"Tablero.h"
+	"Partida.h"
+
+1639780423 source:c:\users\santy\documents\university\ipoo\trimok\src\fichashijas.cpp
+	"FichasHijas.h"
+
+1638387610 c:\users\santy\documents\university\ipoo\trimok\include\menu.h
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+	<windows.h>
+
+1639672500 source:c:\users\santy\documents\university\ipoo\trimok\src\menu.cpp
+	"Menu.h"
+
+1639773238 c:\users\santy\documents\university\ipoo\trimok\include\jugadormaquina.h
+	"Tablero.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1639773238 source:c:\users\santy\documents\university\ipoo\trimok\src\jugadormaquina.cpp
+	"jugadorMaquina.h"
+

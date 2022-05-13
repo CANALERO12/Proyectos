@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TRIMOK" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TRIMOK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Include" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TRIMOK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="Include" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Include/Ficha.h" />
+		<Unit filename="Include/FichasHijas.h" />
+		<Unit filename="Include/Menu.h" />
+		<Unit filename="Include/Partida.h" />
+		<Unit filename="Include/Tablero.h" />
+		<Unit filename="Include/jugadorMaquina.h" />
+		<Unit filename="TRIMOK.cbp" />
+		<Unit filename="src/Ficha.cpp" />
+		<Unit filename="src/FichasHijas.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/Partida.cpp" />
+		<Unit filename="src/Tablero.cpp" />
+		<Unit filename="src/jugadorMaquina.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
