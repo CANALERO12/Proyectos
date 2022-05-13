@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1635395259 source:c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\src\empresa.cpp
+	"../Empresa.h"
+
+1635398449 c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\empresa.h
+	<iostream>
+	"LineasTelefonicas.h"
+
+1635224160 c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\lineastelefonicas.h
+	<string>
+
+1635395259 source:c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\src\lineastelefonicas.cpp
+	"../LineasTelefonicas.h"
+
+1635395258 source:c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\src\main.cpp
+	<iostream>
+	"../Menu.h"
+
+1635400404 c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\menu.h
+	<iostream>
+	"LineasTelefonicas.h"
+	"Empresa.h"
+
+1635396923 source:c:\users\ryzen\documents\university\ipoo\pregunta-4\pregunta-4\src\menu.cpp
+	"../Menu.h"
+
+1635569377 source:c:\users\ryzen\documents\university\ipoo\c++\pregunta4\src\empresa.cpp
+	"../Empresa.h"
+
+1635569382 c:\users\ryzen\documents\university\ipoo\c++\pregunta4\empresa.h
+	<iostream>
+	"LineasTelefonicas.h"
+
+1635569381 c:\users\ryzen\documents\university\ipoo\c++\pregunta4\lineastelefonicas.h
+	<string>
+
+1635569378 source:c:\users\ryzen\documents\university\ipoo\c++\pregunta4\src\lineastelefonicas.cpp
+	"../LineasTelefonicas.h"
+
+1635569404 source:c:\users\ryzen\documents\university\ipoo\c++\pregunta4\src\main.cpp
+	<iostream>
+	"../Menu.h"
+
+1635569381 c:\users\ryzen\documents\university\ipoo\c++\pregunta4\menu.h
+	<iostream>
+	"LineasTelefonicas.h"
+	"Empresa.h"
+
+1635569379 source:c:\users\ryzen\documents\university\ipoo\c++\pregunta4\src\menu.cpp
+	"../Menu.h"
+
+1635569377 source:c:\users\santy\documents\university\ipoo\c++\pregunta4\src\empresa.cpp
+	"../Empresa.h"
+
+1635569382 c:\users\santy\documents\university\ipoo\c++\pregunta4\empresa.h
+	<iostream>
+	"LineasTelefonicas.h"
+
+1635569381 c:\users\santy\documents\university\ipoo\c++\pregunta4\lineastelefonicas.h
+	<string>
+
+1635569378 source:c:\users\santy\documents\university\ipoo\c++\pregunta4\src\lineastelefonicas.cpp
+	"../LineasTelefonicas.h"
+
+1635569404 source:c:\users\santy\documents\university\ipoo\c++\pregunta4\src\main.cpp
+	<iostream>
+	"../Menu.h"
+
+1635569381 c:\users\santy\documents\university\ipoo\c++\pregunta4\menu.h
+	<iostream>
+	"LineasTelefonicas.h"
+	"Empresa.h"
+
+1635569379 source:c:\users\santy\documents\university\ipoo\c++\pregunta4\src\menu.cpp
+	"../Menu.h"
+
