@@ -1,4 +1,4 @@
-- 👋 Hi, I’am @CANALERO12 
+- 👋 Hi, I’am @Santiago Marin
 - 👀 I'm interested in la programacion
  - 🌱 I'm currently learning Technology in software development.
 - 💞️ I’m looking to collaborate on software development. 
